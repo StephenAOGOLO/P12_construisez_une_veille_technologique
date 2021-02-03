@@ -3,3 +3,6 @@ Un développeur doit rester constamment à l'affût des nouveautés technologiqu
 La veille technologique est pour cela une étape indispensable au quotidien.  
 [![](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/veille_bureau_tableau_bord_shutterstock_365852219.jpg)](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/veille_bureau_tableau_bord_shutterstock_365852219.jpg)  
 Les bons développeurs suivent régulièrement les nouveautés du secteur.  
+
+# Tableau de bord - Netvibes  
+https://www.netvibes.com/dashboard/99104458?#software_actualites
