@@ -55,7 +55,7 @@ Pour renforcer la méthode de veille technologique,
 un tableau numérique Netvibes est [disponible](https://www.netvibes.com/dashboard/99104458?#software_actualites).  
 Il est automatiquement mis à jour selon l'activité des différents points d'intérêt.  
 
-[![](components/Tableau_numerique.png)](Tableau_de_bord_Numerique_excel) 
+[![](components/Tableau_numerique.png)](https://www.netvibes.com/dashboard/99104458?#software_actualites) 
 
 ## Les points d'intérêts  
 Les points d'intérêts sont classés par importance et par couleur :
