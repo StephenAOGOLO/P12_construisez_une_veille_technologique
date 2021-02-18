@@ -85,8 +85,7 @@ Violet
 
 # Réseau social - Twitter  
 Je possède [une liste sur Twitter](https://twitter.com/i/lists/1362371188786421762?s=20), dédiée à ma veille technologique.  
-Elle est disponible [ici](https://twitter.com/i/lists/1362371188786421762?s=20)  
-[![](components/AogoloS_Veille_Technologique_Twitter.png)](components/AogoloS_Veille_Technologique_Twitter.png)   
+[![](components/twitter.png)](components/twitter.png)   
 
 
 # Rappel des liens 
